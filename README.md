@@ -2,11 +2,12 @@
 This Repository enlist the list of open source softwares, which could be useful for ultrasound, acoustics modeling
 
 ## Wave Modelling and Inversion
-  + [2D/3D modelling Finite Difference (FD) codes SOFI](https://git.scc.kit.edu/GPIAG-Software/SOFI2D "title text") 
+  + [2D/3D modelling Finite Difference (FD) codes SOFI.](https://git.scc.kit.edu/GPIAG-Software/SOFI2D "title text") 
   + [SPECFEM2D – Spectral element method for modelling forward and adjoint wave propagation in 2D.](https://github.com/komatits/specfem2d "title text")
   + [SPECFEM3D – Spectral element method for modelling forward and adjoint wave propagation in 3D.](https://github.com/komatits/specfem3d "title text")
-  + [DENISE-2D Finite Difference time-domain modeling for full waveform inversion (FWI).](https://github.com/daniel-koehn/DENISE-Black-Edition "title text")
-  + [SAVA: 3D seismic finite-difference modelling, Full Waveform Inversion (FWI) and Reverse Time Migration (RTM).](https://github.com/daniel-koehn/SAVA "title text")
+  + [DENISE-2D Finite Difference time-domain modeling for waveform inversion.](https://github.com/daniel-koehn/DENISE-Black-Edition "title text")
+  + [SAVA: 3D seismic finite-difference modelling for Waveform Inversion and Imaging.](https://github.com/daniel-koehn/SAVA "title text")
+  + [OpenFOAM is a CFD software developed primarily by OpenCFD.](https://www.openfoam.com/ "title text")
  
 ### Python Packages
   + [adjTomo ('adjoint tomography') for tools related to the scientific problems of imaging, adjoint tomography and full waveform inversion. The adjTomo is connected with the, SPECFEM.](https://github.com/adjtomo "title text")
