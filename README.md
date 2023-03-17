@@ -16,8 +16,8 @@ This Repository enlist the list of open source softwares, which could be useful 
   + [Deepwave, a Finite Difference (FD) wave propagation modules for PyTorch, for applications such as imaging/inversion.](https://github.com/ar4/deepwave "title text")
   + [pykonal: Travel-time calculator based on the fast-marching method solution to the Eikonal equation.](https://github.com/malcolmw/pykonal "title text")
   + [TOY2DAC is a 2D Acoustic frequency-domain Full Waveform modeling and inversion code based on Fortran](https://seiscope2.osug.fr/TOY2DAC,82 "title text")
-  + [A C++ package for 2-D joint refraction and reflection traveltime tomography](https://people.earth.yale.edu/software/jun-korenaga "title text")
-      + [Examples of tomo2d results, and advice to run the tomo2d.](https://steveholbrook.com/teaching/refraction/tomo2d/ "title text")
+  + [TOMO2D: A C++ package for 2-D joint refraction and reflection traveltime tomography](https://people.earth.yale.edu/software/jun-korenaga "title text")
+      + [Examples of TOMO2D results, and advice to run the tomo2d.](https://steveholbrook.com/teaching/refraction/tomo2d/ "title text")
       + [A collection of Python algorithms to format seismic data for traveltime tomography in TOMO2D and full-waveform inversion in TOY2DAC](https://github.com/celw10/TOMO2D_2_TOY2DAC "title text")
 
 ### Symbolic codes 
