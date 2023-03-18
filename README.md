@@ -33,6 +33,10 @@ This Repository enlist the list of open source softwares, which collects useful 
 # Machine learning 
  + [Physics-Informed Deep Learning for Wave Propagation and Full Waveform Inversions](https://repository.library.brown.edu/studio/item/bdr:4c3sezqg/ "title text")
 
+# CUDA
+  + [NVIDIA Modulus](https://docs.nvidia.com/deeplearning/modulus/index.html "title text")
+    + [Example:  2D Seismic Wave Propagation](https://docs.nvidia.com/deeplearning/modulus/user_guide/foundational/2d_wave_equation.html "title text")
+
 # Other websites
   + Scientific Research Codes(https://seismo-learn.org/links/codes/ "title text")
 
