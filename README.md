@@ -1,5 +1,5 @@
-# Open-Source-Softwares
-This Repository enlist the list of open source softwares, which could be useful for ultrasound, acoustics modeling
+# Softwares
+This Repository enlist the list of open source softwares, which collects useful links for acoustics, ultrasound, seismic modeling and inversion.
 
 ## Wave Modelling and Inversion
   + [2D/3D modelling Finite Difference (FD) codes SOFI.](https://git.scc.kit.edu/GPIAG-Software/SOFI2D "title text") 
@@ -32,5 +32,7 @@ This Repository enlist the list of open source softwares, which could be useful 
 
 # Machine learning 
  + [Physics-Informed Deep Learning for Wave Propagation and Full Waveform Inversions](https://repository.library.brown.edu/studio/item/bdr:4c3sezqg/ "title text")
-  + []( "title text")
+
+# Other websites
+  + Scientific Research Codes(https://seismo-learn.org/links/codes/ "title text")
 
