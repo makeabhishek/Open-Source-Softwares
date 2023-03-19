@@ -1,4 +1,4 @@
-# Softwares
+# Softwares and Tutorials
 This Repository enlist the list of open source softwares, which collects useful links for acoustics, ultrasound, seismic modeling and inversion.
 
 ## Wave Modelling and Inversion
@@ -38,5 +38,9 @@ This Repository enlist the list of open source softwares, which collects useful 
     + [Example:  2D Seismic Wave Propagation](https://docs.nvidia.com/deeplearning/modulus/user_guide/foundational/2d_wave_equation.html "title text")
 
 # Other websites
-  + Scientific Research Codes(https://seismo-learn.org/links/codes/ "title text")
 
+
+# Tutorials
+  + [Scientific Research Codes](https://seismo-learn.org/links/codes/ "title text")(https://github.com/seismo-learn/links)
+  + [Society of Exploration Geophysicists](https://github.com/seg "title text")
+  
