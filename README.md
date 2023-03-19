@@ -24,6 +24,7 @@ This Repository enlist the list of open source softwares, which collects useful 
   + [Devito: Symbolic Finite Difference Computation Python package](https://www.devitoproject.org/ "title text")
       -[Devito-Examples](https://slimgroup.github.io/Devito-Examples/ "title text")
       - [Acoustic Full-waveform inversion example using Devito](https://wiki.seg.org/wiki/Full-waveform_inversion,_Part_1:_Forward_modeling "title text")
+      - [The Devito DSL - From equations to code in a few lines of Python, Acoustic FWI example](https://transform.softwareunderground.org/2022-zero-to-devito/introduction-dsl  "title text")
   + [Stride - A Finite-difference time-domain solver written in Devito for modelling and optimisation framework for medical ultrasound](https://github.com/trustimaging/stride "title text")
   + [The Julia Devito Inversion framework for FWI, LSRTM, (JUDI.jl)](https://slimgroup.github.io/JUDI.jl/dev/  "title text")
   + [iredrake is an automated system for the portable solution of partial differential equations using the finite element method (FEM).](https://www.firedrakeproject.org/ "title text")
