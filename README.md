@@ -50,4 +50,5 @@ This Repository enlist the list of open source softwares, which collects useful 
 # Tutorials
   + [Scientific Research Codes](https://seismo-learn.org/links/codes/ "title text")[Github](https://github.com/seismo-learn/links  "title text"))
   + [Society of Exploration Geophysicists](https://github.com/seg "title text")
+  + [Deep imaging group: Seismology Tutorials](https://github.com/DIG-Kaust "title text")
   
