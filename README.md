@@ -20,6 +20,7 @@ This Repository enlist the list of open source softwares, which collects useful 
       + [Examples of TOMO2D results, and advice to run the tomo2d.](https://steveholbrook.com/teaching/refraction/tomo2d/ "title text")
       + [A collection of Python algorithms to format seismic data for traveltime tomography in TOMO2D and full-waveform inversion in TOY2DAC](https://github.com/celw10/TOMO2D_2_TOY2DAC "title text")
   + [Pyfwi: A Python Package for Full-Waveform Inversion and Reservoir Monitoring](https://pyfwi.readthedocs.io/en/latest/ "title text")
+  + [PyLops: a backend-agnostic, idiomatic, matrix-free library of linear operators and related computations](https://pylops.readthedocs.io/en/stable/index.html  "title text")
 
 ### Symbolic codes 
   + [Devito: Symbolic Finite Difference Computation Python package](https://www.devitoproject.org/ "title text")
